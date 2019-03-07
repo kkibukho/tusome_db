@@ -12,7 +12,7 @@ The data here is relatively stable. While zones may be split and renamed, or sch
     + This is the term we use to refer to geographic hierarchies. From the national level down to the school level, the structure is a simple 1:1 nesting.
         * **Counties**: (roughly 50) each of which contains several subcounties
         * **Subcounties**: (roughly 330) each of which contains several zones
-        * **Zones**: (roughly 1300) each of which contains several schools
+        * **Zones/Clusters**: (roughly 1300) each of which contains several schools
         * **Schools**: (roughly 26,000) each of which contains 3 grades, potentially with multiple streams in each grade
     + Each entity in this hierarchy should contain a number of attributes. At a minimum, these would include
         * **unique identifier**: for use within the Tangerine data-collection ecosystem
